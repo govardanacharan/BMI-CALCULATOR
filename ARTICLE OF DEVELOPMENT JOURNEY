@@ -1,17 +1,16 @@
-Body mass index is a familiar term for those who are weight conscious. It is the term
-that let user know about the overall body composition in terms of fat.The available body mass
-index calculators whether online or on Play Store do not provide Malaysian meal suggestions.
-Hence, this paper proposes an application for body mass index calculator together with
-Malaysian meal suggestion. The objectives of the study are to design and develop BMI Calc
-android application for the purpose of calculating body mass index while embedding meal
+This project journey all started by the topic BMI calculator by Akshay, Charan , Rohan  and all of us worked together on this project and divided thework among ourselves.
+Inorder to complete the final report we all 3 of us sat together and organized a meet and did the work assigned to us.The project required skills we have learned from the
+project are initiation,planning,execution and learning.Also these are the steps in which the project should be done.Moving on to thw implementation part we need code and 
+other things inorder to complete the process.
+
+     Now explaining  the BMI it is nothing but Body mass index is a familiar term for those who are weight conscious. It is the termthat let user know about the overall body composition in terms of fat.
+      Ihis app proposes an application for body mass index calculator.The objectives of the study are to design and develop BMI Calculatorandroid application for the purpose of calculating body mass index while embedding meal
 suggestion module. The design and methodology involve in the process are also presented.The researchers developed meal suggestions on the application utilizing App Inventor 2. The
-suggestions for breakfast, lunch, and dinner are based on the number of calories needed by the user, BMI Calc Android Application
-development using App Inventor 2 is described in 
-Then, the third stage of BMI Calc application development (Coding) was the implementation stage.
-Testing was performed concurrently with the programming of the application.The overview of BMI
-Calc operation is displayed in Figure 2. Two inputs are demanded from the users which are height and
-weight. Once this information is inserted in the application, user’s BMI will be calculated based on the
-aforementioned formula. As a result, the user’s BMI category together with suitable meal suggestion
+based on the number of calories needed by the user, BMI Calc Android Applicationdevelopment using App Inventor tool is described in the app.Then, the third stage of BMI Calc application development (Coding) was the implementation stage.
+Testing was performed concurrently with the programming of the application.The overview of BMI Calculator operation is displayed. Two inputs are demanded from the users which are height and
+weight. Once this information is inserted in the application, user’s BMI will be calculated based on theaforementioned formula. As a result, the user’s BMI category together with suitable meal suggestion
 for that particular category will be displayed. 
 
-it
+  Hence we conclude our project BMI where we displayed all the details and explained the process and we thanks Android club for giving us an opportunity to present our 
+  topic.
+
